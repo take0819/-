@@ -1,0 +1,101 @@
+{
+  "guard": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "jujutsucraft:guard",
+        "stream": false
+      }
+    ]
+  },
+  "guard_sword": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "jujutsucraft:guard_sword",
+        "stream": false
+      }
+    ]
+  },
+  "sword_sweep": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "jujutsucraft:sword_sweep",
+        "stream": false
+      }
+    ]
+  },
+  "flame_explode": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "jujutsucraft:fire1",
+        "stream": false
+      }
+    ]
+  },
+  "punch": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "jujutsucraft:punch_hit1",
+        "stream": false
+      }
+    ]
+  },
+  "wind_chime": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "jujutsucraft:wind_chime",
+        "stream": false
+      }
+    ]
+  },
+  "slow_motion_end": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "jujutsucraft:slow_motion_end",
+        "stream": false
+      }
+    ]
+  },
+  "piano_horror": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "jujutsucraft:piano_horror",
+        "stream": false
+      }
+    ]
+  },
+  "crush": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "jujutsucraft:crush",
+        "stream": false
+      }
+    ]
+  },
+  "tinnitus": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "jujutsucraft:tinnitus",
+        "stream": false
+      }
+    ]
+  },
+  "electric_shock": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "jujutsucraft:electric_shock",
+        "stream": false
+      }
+    ]
+  }
+}
